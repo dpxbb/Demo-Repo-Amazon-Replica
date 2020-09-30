@@ -48,3 +48,16 @@ form input
     border-radius: 2px;
     margin-bottom: 25px;
 }
+
+/* 
+    background-color: #f7c548;
+    border0color: #a88734 #9c7e31 #846a29;
+*/
+
+form input [type="submit"]
+{
+    background-color: goldenrod;
+    border-color: gold;
+    font-size: 90%;
+
+}
